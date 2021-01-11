@@ -8,9 +8,9 @@ This plugin is a tmux plugin to monitor storage usage.
 ## Installation
 1. Add my plugin to the list of tpm plugins in your `.tmux.conf`.
 
-```shell
-set -g @plugin 'narugit/tmux-storage-status'
-```
+    ```shell
+    set -g @plugin 'narugit/tmux-storage-status'
+    ```
 
 1. <kbd>prefix</kbd>+<kbd>I</kbd> to fetch the plugin and source it.
 
