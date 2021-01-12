@@ -1,4 +1,5 @@
-#!/usr/bin/env bash -eu
+#!/usr/bin/env bash
+set -eu
 LC_NUMERIC=C
 CURRENT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 source "$CURRENT_DIR/helpers.sh"
